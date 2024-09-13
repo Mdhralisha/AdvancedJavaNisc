@@ -1,0 +1,4 @@
+demo\ServletExample.class
+com\mycompany\demo\resources\JakartaEE10Resource.class
+demo\GenericServletExample.class
+com\mycompany\demo\JakartaRestConfiguration.class
