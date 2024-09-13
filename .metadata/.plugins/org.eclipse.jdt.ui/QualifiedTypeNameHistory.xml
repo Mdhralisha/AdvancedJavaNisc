@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="jakarta.security.auth.message.callback.PrivateKeyCallback.Request"/>
+    <fullyQualifiedTypeName name="jspForm.helper.ConnectionHandler"/>
+    <fullyQualifiedTypeName name="jspForm.entities.Participant"/>
+    <fullyQualifiedTypeName name="java.sql.Statement"/>
+    <fullyQualifiedTypeName name="java.lang.StringIndexOutOfBoundsException"/>
+    <fullyQualifiedTypeName name="java.lang.System"/>
+    <fullyQualifiedTypeName name="jakarta.servlet.annotation.WebServlet"/>
+    <fullyQualifiedTypeName name="jakarta.servlet.RequestDispatcher"/>
+    <fullyQualifiedTypeName name="dbconfig.DbConnection"/>
+    <fullyQualifiedTypeName name="entities.College"/>
+    <fullyQualifiedTypeName name="collegeDAO.CollegeDAO"/>
+</qualifiedTypeNameHistroy>

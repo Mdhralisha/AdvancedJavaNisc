@@ -1,0 +1,18 @@
+1720418674674	Move 'web.xml' to 'lib'
+1720418719472	Move 'web.xml' to 'WEB-INF'
+1720418748200	Move 'Landing.jsp' to 'views'
+1720418782422	Delete element
+1720499177333	Delete element
+1720501305719	Copy package
+1720501309432	Delete element
+1720501352933	Copy package
+1720501358006	Delete element
+1720501491169	Encapsulate field 'full_name'
+1720501504460	Encapsulate field 'email'
+1720501517416	Encapsulate field 'semester'
+1720501617981	Delete element
+1720501678660	Copy package
+1720501689145	Delete element
+1720502138454	Copy package
+1720502144244	Delete element
+1720751643989	Copy files
